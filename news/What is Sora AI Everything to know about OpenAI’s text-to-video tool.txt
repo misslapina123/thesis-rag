@@ -1,0 +1,34 @@
+What is Sora AI? Everything to know about OpenAI’s text-to-video tool
+Artificial intelligence can now create videos from your prompts, but how does it work?
+Credit: OpenAI
+
+Alex Hughes
+
+Published: February 23, 2024 at 3:57 pm
+
+Sora is the latest leap in artificial intelligence software, allowing users to create staggeringly realistic videos from a simple worded prompt.
+OpenAI, the creators of Dall-E and ChatGPT, are beyond the new service, which is soon set to launch to the general public.
+This development has seemingly come out of nowhere. If you’ve seen any previous attempts at AI-created video you’ll know that they were… well, bad feels almost like a compliment. Let’s just say they weren’t exactly deceiving.
+So how has OpenAI done this? Can you use the tool now? And what does this mean for the future of video, film and content? We take a deep dive into OpenAI’s latest ground-breaking tool and what it means for you.
+What is Sora?
+Sora is an AI tool that is capable of generating full videos up to 1 minute long. Simply give it a prompt, for example, “a field of cats worshipping one giant dog” and, in theory, you will receive a video matching that description.
+If you’re not glued to social media or niche computing forums, it will have been quite easy to miss the incredibly sudden rise of Sora. It didn’t have a huge announcement or lots of advertising, it was just suddenly there.
+OpenAI has unveiled a host of example videos, most of which show Sora producing incredibly life-like videos. They can display reflections in mirrors, accurate fluid movements in liquids and even falling snow particles.
+How does Sora work?
+In essence, Sora works exactly like any AI image generator that has come before, just with a lot more steps. AI image generators utilise a method known as diffusion models.
+This starts to get somewhat complicated but essentially it works by taking a video turned entirely into static. It is then taught to reverse the static, resulting in a crisp image (or video in this case).
+To train something like this, Sora is fed examples of videos with accompanying alt text explaining what is happening in the video. This helps the model to learn the association between the image and what is happening.
+Eventually, this can then be used to connect your worded prompts with the end result video. This, compared to the AI images that we’ve seen for the past year is a massive challenge.
+The model needs to understand 3D models, movement, reflections, shadows and a long list of very complicated features to replicate.
+OpenAI, as part of its commitment to transparency, has a full breakdown of how the model works on its website. There is however no information as to where the videos used in training came from.
+How to use Sora AI
+For now, Sora is unavailable to the majority of people. Just like in the past, OpenAI is being cautious with offering out its tools. The first step involves a small number of people known as ‘red teamers’ who test the tool for critical areas of harm or risk.
+It will then become available to a small number of visual artists, designers and filmmakers to understand how the tool works with creative professionals.
+It is likely that Sora will then become available to the public. However, as such a powerful tool, we would expect it to be found under the pay-to-use model of GPT.
+Is Sora the best AI video generator?
+From the videos that have been released so far, Sora appears to be miles ahead of anything we have seen before. Just one year ago, we were seeing the first attempts at AI video generation, and they were laughable at best.
+Back then, a video of Will Smith eating Spaghetti was going viral, as was a video called ‘Pepporoni Hug Spot’ – an AI made TV commercial. Both felt closer to a waking nightmare than a viable example of AI video.
+Compare these with the videos of Sora and it is an entirely different world. Sora is creating videos with accurate lighting, reflections and natural human characteristics. It has even solved issues that are surprisingly hard like people coming in and out of screen.
+However, it is by no means perfect. Watch a collection of Sora videos and the mistakes stand out. Body parts disappear and reappear, people emerge out of nowhere and feet float into the ground.
+Currently, we can only see the hand-picked videos from OpenAI as well. When the public is given access, more flawed videos will emerge, displaying the model’s strengths and weaknesses.
+

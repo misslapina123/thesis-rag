@@ -1,0 +1,33 @@
+﻿Hollywood is not 'over' just because of OpenAI's Sora, some filmmakers say
+The new text-to-video model, which was teased by OpenAI CEO Sam Altman last week, is already generating hyperrealistic footage of anything users can imagine.
+A Sora response to the prompt: A corgi vlogging in Maui.Sora / OpenAI
+* 
+* 
+* 
+* 
+Feb. 22, 2024, 7:43 PM EET / Updated Feb. 23, 2024, 5:52 PM EET
+By Angela Yang and Brian Cheung
+Hollywood isn't panicking about OpenAI's impressive new text-to-video generator just yet.
+The unveiling of Sora last week sparked a fresh wave of discussion about how AI could change the entertainment industry thanks in large part to the model's ability to quickly generate relatively high-quality video from text.
+Sora adds to other AI-powered models around text, images and audio that remain flawed in some ways, leaving entertainment industry creatives to balance concern for their jobs with the reality that AI can only do so much.
+"A lot of people are saying Hollywood's over, Hollywood's done," said Reid Southen, a film concept artist and illustrator. "I don't really think that's the case for a lot of reasons. Production pipelines are too complicated. And these videos are a little too sloppy with too many issues, especially with temporal consistency and artifacts like extra limbs and things like that."
+Concerns around generative AI were top of mind for entertainment industry workers during last year's labor strikes. Many creatives continue to push for protections around use of AI models. Aubry Mintz, interim executive director of the International Animated Film Association's Hollywood branch, said the animation community is already "quite discomforted" by Sora. 
+If Sora makes roles in reference animation, concept art and storyboarding redundant, these industry professionals may find themselves out of a job, Mintz said.
+Some in the entertainment industry are already taking action. Tyler Perry told The Hollywood Reporter on Thursday that his studio put a hold on an $800 million expansion due to AI advancements, noting Sora by name.
+Southen said he doesn't think Sora will be replacing filmmakers anytime soon. But he does worry advanced technology could affect industry jobs in the future.
+"It's become clear that we live in a culture of good enough, in a lot of ways, and so if there's a dollar to be shaved off, people and companies are going to jump on it," he said.
+At present, Sora's abilities seem more conducive to creating stock footage rather than film footage, said Blake Ridder, a British director, writer and actor.
+OpenAI expanded its licensing agreement with Shutterstock last year to use its library of images, video and music as training data.
+But Ridder believes Sora could be used as a tool to help enhance the filmmaking process.  
+"It's a bit threatening in terms of who could use [Sora] for their work and say that it's something they've created," he said. "But perhaps filmmakers could use those generated videos to concept a storyboard rather than use it as a final output for a project."
+A spokesperson for OpenAI told NBC News in a statement last week that it would not be making Sora "broadly available" soon, as it wants to engage policymakers, educators and artists before releasing it publicly.
+Like several other generative AI companies, OpenAI already faces multiple lawsuits accusing the company of training its products using copyrighted materials. The OpenAI spokesperson said Sora's "training data is from content we've licensed and publicly available content."
+Artists have also expressed concerns about whether Sora will enable studios to generate actors' likenesses without their consent. OpenAI stated in a blog post that the text-to-video model will reject text inputs that ask it to generate celebrity likenesses.
+Last week, the Federal Trade Commission proposed rules aimed at making it illegal to create AI impressions of real people by extending protections it is putting in place around government and business impersonation.
+Hollywood has adapted to technology advances - from CGI to computer animation software - before. Mintz is hopeful that the industry can survive through AI innovations as well.
+"They can't replicate the human creative mind and make the creative decisions artists have been doing for centuries," Mintz said. "We stand on the shoulders of giants and then do our best to create something unique that we are proud of."
+ngela Yang
+Angela Yang is a culture and trends reporter for NBC News.
+Brian Cheung
+Brian Cheung is a business and data reporter for NBC News.
+
