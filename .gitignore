@@ -1,8 +1,8 @@
 .env
 Art_of_RAG_Evaluation_LangChain_&_Ragas.ipynb
-ballad/vectordb/parent_large_summary/chroma.sqlite3
-ballad/vectordb/parent_summary/chroma.sqlite3
-ballad/vectordb/parent_small_summary/chroma.sqlite3
+ballad/vectordb/parent_large/chroma.sqlite3
+ballad/vectordb/parent/chroma.sqlite3
+ballad/vectordb/parent_small/chroma.sqlite3
 news/vectordb/parent_large_summary/chroma.sqlite3
 news/vectordb/parent_summary/chroma.sqlite3
 news/vectordb/parent_small_summary/chroma.sqlite3
