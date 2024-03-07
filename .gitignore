@@ -3,6 +3,7 @@ Art_of_RAG_Evaluation_LangChain_&_Ragas.ipynb
 ballad/vectordb/parent_large_summary/chroma.sqlite3
 ballad/vectordb/parent_summary/chroma.sqlite3
 ballad/vectordb/parent_small_summary/chroma.sqlite3
+ballad/vectordb/parent_large_summary/*
 ballad/vectordb/*
 vectordb/*
 news/vectordb/*
