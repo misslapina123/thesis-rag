@@ -25,3 +25,5 @@ news/vectordb-edit/*
 vectordb-edit/*
 ballad/vectordb-edit/*
 papers/vectordb-edit/*
+ballad/vectordb/recursive_basic
+ballad/vectordb/recursive_basic/*
