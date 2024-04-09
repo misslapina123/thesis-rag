@@ -20,3 +20,10 @@ ballad/vectordb/parent_small_summary/chroma.sqlite3
 ballad/vectordb/parent_summary/chroma.sqlite3
 ballad/vectordb/parent_small_summary/b322c5b8-6b74-4b04-b248-2497ae2ac96c/data_level0.bin
 papers/vectordb/*
+vectordb/naive/*vectordb/naive/d1dfe2f0-e972-45e9-8856-47b63345c4cd/length.bin
+news/vectordb-edit/*
+vectordb-edit/*
+ballad/vectordb-edit/*
+papers/vectordb-edit/*
+ballad/vectordb/recursive_basic
+ballad/vectordb/recursive_basic/*
