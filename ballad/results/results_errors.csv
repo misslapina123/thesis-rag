@@ -1,40 +1,40 @@
-System,Context Precision,Context Recall,Accuracy
-GPT-3.5,,,0.0
-GPT-4,,,0.5
-Naive,0.63,0.225,0.0
-Recursive,0.472,0.472,0.0
-"Chunk 500, overlap 0%",0.417,0.481,0.1
-"Chunk 500, overlap 5%",0.417,0.491,0.1
-"Chunk 500, overlap 10%",0.454,0.481,0.1
-"Chunk 500, overlap 15%",0.454,0.398,0.1
-"Chunk 500, overlap 20%",0.556,0.283,0.1
-"Chunk 1000, overlap 0%",0.417,0.491,0.1
-"Chunk 1000, overlap 5%",0.417,0.491,0.1
-"Chunk 1000, overlap 10%",0.417,0.389,0.1
-"Chunk 1000, overlap 15%",0.556,0.225,0.1
-"Chunk 1000, overlap 20%",0.417,0.389,0.1
-"Chunk 2000, overlap 0%",0.472,0.491,0.1
-"Chunk 2000, overlap 5%",0.417,0.491,0.1
-"Chunk 2000, overlap 10%",0.417,0.389,0.1
-"Chunk 2000, overlap 15%",0.417,0.491,0.1
-"Chunk 2000, overlap 20%",0.417,0.481,0.1
-"Chunk 3000, overlap 0%",0.472,0.389,0.1
-"Chunk 3000, overlap 5%",0.417,0.389,0.1
-"Chunk 3000, overlap 10%",0.417,0.389,0.1
-"Chunk 3000, overlap 15%",0.435,0.352,0.1
-"Chunk 3000, overlap 20%",0.417,0.389,0.1
-"Chunk size 500, overlap 0%, K=2",0.523,0.4,0.1
-"Chunk size 500, overlap 0%, K=3",0.75,0.509,0.3
-"Chunk size 500, overlap 0%, K=5",0.602,0.5,0.0
-Parent Retriever 1000-200,0.845,0.358,0.1
-Parent Retriever 500-100,0.657,0.8,0.4
-Parent Retriever 1500-200,0.825,0.306,0.1
-MMR,0.509,0.667,0.2
-BM25,0.528,0.889,0.2
-Ensambler 1,0.938,0.551,0.0
-Ensambler 2,0.844,0.677,0.0
-Ensambler 3,0.712,0.677,0.1
-Search query,0.593,0.7,0.4
-"Parent Retriever 500-100, GPT-4",0.657,0.8,0.0
-Search query,0.515,0.8,0.1
-"Chunk size 500, overlap 0%, K=3, GPT-4",0.75,0.509,0.1
+System,Context Precision,Context Recall,Accuracy,Average
+GPT-3.5,,,0.0,0.0
+GPT-4,,,0.5,0.5
+Naive,0.63,0.225,0.0,0.285
+Recursive,0.472,0.472,0.0,0.315
+"Chunk 500, overlap 0%",0.417,0.481,0.1,0.333
+"Chunk 500, overlap 5%",0.417,0.491,0.1,0.336
+"Chunk 500, overlap 10%",0.454,0.481,0.1,0.345
+"Chunk 500, overlap 15%",0.454,0.398,0.1,0.317
+"Chunk 500, overlap 20%",0.556,0.283,0.1,0.313
+"Chunk 1000, overlap 0%",0.417,0.491,0.1,0.336
+"Chunk 1000, overlap 5%",0.417,0.491,0.1,0.336
+"Chunk 1000, overlap 10%",0.417,0.389,0.1,0.302
+"Chunk 1000, overlap 15%",0.556,0.225,0.1,0.294
+"Chunk 1000, overlap 20%",0.417,0.389,0.1,0.302
+"Chunk 2000, overlap 0%",0.472,0.491,0.1,0.354
+"Chunk 2000, overlap 5%",0.417,0.491,0.1,0.336
+"Chunk 2000, overlap 10%",0.417,0.389,0.1,0.302
+"Chunk 2000, overlap 15%",0.417,0.491,0.1,0.336
+"Chunk 2000, overlap 20%",0.417,0.481,0.1,0.333
+"Chunk 3000, overlap 0%",0.472,0.389,0.1,0.32
+"Chunk 3000, overlap 5%",0.417,0.389,0.1,0.302
+"Chunk 3000, overlap 10%",0.417,0.389,0.1,0.302
+"Chunk 3000, overlap 15%",0.435,0.352,0.1,0.296
+"Chunk 3000, overlap 20%",0.417,0.389,0.1,0.302
+"Chunk size 500, overlap 0%, K=2",0.523,0.4,0.1,0.341
+"Chunk size 500, overlap 0%, K=3",0.75,0.509,0.3,0.52
+"Chunk size 500, overlap 0%, K=5",0.602,0.5,0.0,0.367
+Parent Retriever 1000-200,0.845,0.358,0.1,0.434
+Parent Retriever 500-100,0.657,0.8,0.4,0.619
+Parent Retriever 1500-200,0.825,0.306,0.1,0.41
+MMR,0.509,0.667,0.2,0.459
+BM25,0.528,0.889,0.2,0.539
+Ensambler 1,0.938,0.551,0.0,0.496
+Ensambler 2,0.844,0.677,0.0,0.507
+Ensambler 3,0.712,0.677,0.1,0.496
+Search query,0.593,0.7,0.4,0.564
+"Parent Retriever 500-100, GPT-4",0.657,0.8,0.0,0.486
+Search query,0.515,0.8,0.1,0.472
+"Chunk size 500, overlap 0%, K=3, GPT-4",0.75,0.509,0.1,0.453
