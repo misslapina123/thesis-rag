@@ -1,0 +1,8 @@
+System,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Answer Similarity,Answer Correctness,Average
+GPT-3.5,0.909,0.593,,,0.911,0.547,0.671
+GPT-4,0.476,1.0,,,0.675,0.853,0.677
+"Chunk size 1000, overlap 5%, K=5",0.752,0.91,0.934,0.969,0.942,0.822,0.888
+Search query,1.0,0.741,1.0,0.957,0.962,0.626,0.881
+"Chunk 1000, overlap 5%",0.96,0.858,1.0,0.932,0.961,0.606,0.886
+Ensambler 1,0.95,0.827,0.969,0.982,0.931,0.543,0.867
+"Chunk 500, overlap 15%",1.0,0.759,0.965,0.893,0.959,0.62,0.866
