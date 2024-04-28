@@ -1,0 +1,7 @@
+System,Context Precision,Context Recall,Accuracy,Average
+GPT-3.5,,,0.0,0.0
+GPT-4,,,0.2,0.2
+Parent Retriever 500-100,0.889,0.8,0.7,0.796
+Ensambler 1,0.889,0.768,0.2,0.619
+Parent Retriever 1500-200,0.825,0.9,0.5,0.742
+Parent Retriever 1000-200,0.825,0.875,0.5,0.733

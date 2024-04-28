@@ -1,0 +1,11 @@
+System,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Answer Similarity,Answer Correctness,Average
+GPT-3.5,1.0,0.376,,,0.848,0.454,0.625
+GPT-4,0.75,0.361,,,0.836,0.415,0.551
+"Chunk 1000, overlap 0%, GPT-4",1.0,0.809,0.925,0.98,0.923,0.649,0.881
+"Chunk 1000, overlap 10%, GPT-4",0.688,0.805,0.832,1.0,0.955,0.853,0.856
+"Chunk 3000, overlap 0%",0.733,0.922,0.709,0.971,0.883,0.778,0.833
+Parent Retriever 500-100,0.706,0.75,0.953,0.983,0.962,0.809,0.861
+Parent Retriever 1500-200,0.691,0.719,0.955,0.983,0.962,0.809,0.853
+"Chunk size 3000, overlap 20%, K=2",0.958,0.732,0.9,1.0,0.906,0.524,0.837
+"Chunk 1000, overlap 20%",1.0,0.889,0.883,0.98,0.921,0.609,0.88
+"Chunk 1000, overlap 10%",1.0,0.782,0.933,0.98,0.923,0.653,0.879

@@ -1,0 +1,10 @@
+Unnamed: 0,System,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Answer Similarity,Answer Correctness,Average
+0,GPT-3.5,0.818,0.796,,,0.985,0.649,0.832
+1,GPT-4,0.837,0.873,,,0.911,0.667,0.838
+37,Search query,0.729,0.963,0.874,1.0,0.995,0.922,0.914
+2,Naive,0.988,0.86,1.0,0.925,0.976,0.543,0.882
+4,"Chunk 500, overlap 0%",0.93,0.878,0.983,1.0,0.978,0.566,0.889
+14,"Chunk 2000, overlap 0%",1.0,0.851,0.992,0.95,0.977,0.528,0.883
+40,Search query GPT4,0.948,0.826,0.821,0.899,0.938,0.885,0.886
+26,"Chunk 500, overlap 15%, K=5",0.966,0.874,0.967,1.0,0.98,0.649,0.906
+38,"Chunk size 500, overlap 15%, K=5, GPT-4	",0.98,0.882,0.97,1.0,0.97,0.634,0.906

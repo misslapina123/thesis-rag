@@ -1,0 +1,7 @@
+System,Context Precision,Context Recall,Accuracy,Average
+GPT-3.5,,,0.0,0.0
+GPT-4,,,0.5,0.5
+"Chunk size 500, overlap 0%, K=6",0.906,0.694,0.1,0.567
+BM25,0.528,0.889,0.2,0.539
+"Chunk 500, overlap 0%",0.76,0.698,0.4,0.619
+Ensambler 3,0.819,0.869,0.1,0.596
